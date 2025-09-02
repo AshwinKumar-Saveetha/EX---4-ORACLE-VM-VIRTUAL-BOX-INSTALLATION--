@@ -32,7 +32,8 @@ For Windows:
 #### Step 2: Open Oracle VM VirtualBox
     1. Launch VirtualBox on your computer.
     
-<img width="1919" height="1011" alt="image" src="https://github.com/user-attachments/assets/248a1506-be3d-4f3f-868c-7a68b83e364a" />
+<img width="932" height="585" alt="image" src="https://github.com/user-attachments/assets/3219153c-9da1-430a-8ba8-c4ec04d7d104" />
+
 
 
 #### Step 3: Create a New Virtual Machine
@@ -69,7 +70,8 @@ For Windows:
 #### Step 10: Start the Virtual Machine
     1. In VirtualBox, click Start to boot up your Kali Linux virtual machine.
     
-<img width="1919" height="1011" alt="image" src="https://github.com/user-attachments/assets/7dd19eb5-2074-486b-b106-0c7ad2b17b22" />
+<img width="933" height="588" alt="image" src="https://github.com/user-attachments/assets/01cc66db-3ec8-43ec-b818-b8ba014d8116" />
+
 
 
 
@@ -105,35 +107,130 @@ For Windows:
 
 ## EXPECTED OUTPUT
 
-<img width="1919" height="1011" alt="image" src="https://github.com/user-attachments/assets/6621a4fb-5ef6-4361-93ad-bac470796db5" />
+<img width="1918" height="1020" alt="image" src="https://github.com/user-attachments/assets/43b5ca22-f8aa-4066-a565-c9c041c58e16" />
+
 
 
 # .sh method
 
 ## PROGRAM
 #### Shell script to add two numbers:
-<img width="394" height="200" alt="image" src="https://github.com/user-attachments/assets/97f9407c-07f7-48bf-a75f-b86f86474677" />
+<img width="452" height="365" alt="image" src="https://github.com/user-attachments/assets/4b88ab5f-ab58-43a8-9b57-94a817e3dc4a" />
+
+
 
 
 ## EXPECTED OUTPUT
 
-<img width="316" height="125" alt="image" src="https://github.com/user-attachments/assets/c91d9f79-5503-4963-b032-454739bd1f3b" />
+<img width="262" height="173" alt="Screenshot 2025-08-29 093743" src="https://github.com/user-attachments/assets/09b785be-dc6e-4ffd-9e45-149551df8b3d" />
+
 
 
 ## CHMOD METHOD
 
-<img width="653" height="73" alt="image" src="https://github.com/user-attachments/assets/ab44ae0d-b099-4243-9781-a3f2cf66faa2" />
+<img width="235" height="60" alt="Screenshot 2025-08-29 093857" src="https://github.com/user-attachments/assets/ea31c6f4-f502-461b-9381-4031b06124e7" />
+
 
 
 # TERMINAL METHOD
 
-<img width="422" height="315" alt="image" src="https://github.com/user-attachments/assets/163b9524-1f02-44cf-aa9c-949b96c586b6" />
+<img width="437" height="376" alt="Screenshot 2025-08-29 092809" src="https://github.com/user-attachments/assets/513d0b74-8cc8-44ba-8e87-4ebaa2e38bac" />
 
 
-## LINUX COMMANDS
 
-<img width="973" height="375" alt="image" src="https://github.com/user-attachments/assets/2c7dd84a-5ce3-4fc5-b470-1c144f2d1e0c" />
+# .c METHOD
 
+<img width="557" height="382" alt="image" src="https://github.com/user-attachments/assets/e9a9553f-26fa-4bb9-9d28-f6971d4c7e05" />
+<br>
+<img width="237" height="49" alt="Screenshot 2025-08-29 095307" src="https://github.com/user-attachments/assets/fc79f62d-98bf-4475-b492-3fd5c2cf2911" />
+<br>
+<img width="247" height="52" alt="Screenshot 2025-08-29 095314" src="https://github.com/user-attachments/assets/e1579ada-6519-489c-b209-8e9a2018e9a7" />
+<br>
+<img width="256" height="100" alt="Screenshot 2025-08-29 095321" src="https://github.com/user-attachments/assets/88b3094e-e438-48ce-98f4-f3ee8422bfa4" />
+
+# LINUX COMMANDS
+
+### 1)	ls Command
+
+The ls command is used to display a list of content of a directory.
+
+ Syntax: ls
+
+<img width="786" height="95" alt="Screenshot 2025-08-25 083039" src="https://github.com/user-attachments/assets/02bf62c2-c948-4347-a459-d5a99fc25fcb" />
+
+### 2)	pwd Command
+
+The pwd command is used to display the location of the current working directory.
+
+Syntax: pwd
+
+<img width="187" height="81" alt="Screenshot 2025-08-25 083048" src="https://github.com/user-attachments/assets/9caed99a-69f8-492c-a0ac-efa7654c0539" />
+
+### 3)	mkdir Command
+
+The mkdir command is used to create a new directory under any directory.
+
+Syntax: mkdir <directory name>
+
+<img width="860" height="118" alt="Screenshot 2025-08-25 083259" src="https://github.com/user-attachments/assets/63e87d5e-a810-4b1b-958d-49280ac81d49" />
+
+### 4)	rmdir Command
+
+The rmdir command is used to delete a directory.
+
+Syntax: rmdir <directory name>
+
+<img width="786" height="134" alt="Screenshot 2025-08-25 083320" src="https://github.com/user-attachments/assets/b5312fd8-dae0-4000-ac75-5ccd39f934df" />
+
+### 5)	cd Command
+
+The cd command is used to change the current directory.
+
+Syntax: cd <directory name>
+
+<img width="256" height="148" alt="image" src="https://github.com/user-attachments/assets/c6a5f4e7-1c0a-4efa-9f57-bd74d63476d4" />
+
+### 6)	cat Command
+
+The cat command is a multi-purpose utility in the Linux system. It can be used to create a file, display content of the file, copy the content of one file to another file, and more.
+
+Syntax: cat [OPTION]... [FILE]..
+
+<img width="243" height="90" alt="image" src="https://github.com/user-attachments/assets/8281a04c-4004-49b8-bd23-d83bb15c08c7" />
+<br>
+<img width="252" height="97" alt="image" src="https://github.com/user-attachments/assets/f6290e0a-a029-4da5-b9fb-c66fe87a6f79" />
+
+### 7)	cp Command
+
+The cp command is used to copy a file or directory.
+
+Syntax: cp <existing file name> <new file name>
+
+<img width="253" height="142" alt="image" src="https://github.com/user-attachments/assets/ee168117-6988-4aaf-bda8-6bb75ba0ad7a" />
+
+### 8)	gedit Command
+
+The gedit is a general-purpose text editor. It can be used to create and edit all kinds of text files.
+
+Syntax: gedit file_name
+
+<img width="261" height="56" alt="image" src="https://github.com/user-attachments/assets/20ac0a42-daf9-4824-9062-1eacdedda629" />
+
+### 9)	su Command
+
+The su command provides administrative access to another user. In other words, it allows access of the Linux shell to another user.
+
+Syntax: su <user name>
+
+<img width="207" height="93" alt="image" src="https://github.com/user-attachments/assets/d2b0279d-d941-41c0-a8bb-567bb7263a1e" />
+
+### 10)	mv Command
+
+The mv command is used to move a file or a directory form one location to another location.
+
+Syntax: mv <file name> <directory path>
+
+<img width="252" height="292" alt="image" src="https://github.com/user-attachments/assets/7b599f7e-3436-4396-9822-71eecb742321" />
 
 ## RESULT
 Thus, this experiment helped in understanding the fundamentals of Linux commands and Bash scripting for automation and system management.
