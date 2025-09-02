@@ -140,10 +140,11 @@ For Windows:
 
 # .c METHOD
 
-<img width="557" height="382" alt="image" src="https://github.com/user-attachments/assets/e9a9553f-26fa-4bb9-9d28-f6971d4c7e05" />
-<br>
 <img width="237" height="49" alt="Screenshot 2025-08-29 095307" src="https://github.com/user-attachments/assets/fc79f62d-98bf-4475-b492-3fd5c2cf2911" />
 <br>
+<img width="557" height="382" alt="image" src="https://github.com/user-attachments/assets/e9a9553f-26fa-4bb9-9d28-f6971d4c7e05" />
+<br>
+
 <img width="247" height="52" alt="Screenshot 2025-08-29 095314" src="https://github.com/user-attachments/assets/e1579ada-6519-489c-b209-8e9a2018e9a7" />
 <br>
 <img width="256" height="100" alt="Screenshot 2025-08-29 095321" src="https://github.com/user-attachments/assets/88b3094e-e438-48ce-98f4-f3ee8422bfa4" />
